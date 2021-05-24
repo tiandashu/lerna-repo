@@ -1,6 +1,6 @@
 {
   "name": "feu-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "tianlu21 <tianlu21@jd.com>",
   "homepage": "",
@@ -22,6 +22,6 @@
   },
   "dependencies": {
     "feu-tools": "^0.0.1",
-    "feu-ui": "^0.0.1"
+    "feu-ui": "^0.0.2"
   }
 }
