@@ -8,7 +8,7 @@
   "command": {
     "publish": {
       "message": "chore(release): publish",
-      "registry": "http://legos.wq.jd.com/legosv5/registry/"
+      "registry": "https://registry.npmjs.org/"
     }
   }
 }
