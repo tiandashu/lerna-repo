@@ -1,5 +1,5 @@
 {
-  "name": "@vtian/feu-tools",
+  "name": "tianlu-tools",
   "version": "0.0.2",
   "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
   "keywords": [],
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "1c32cc6701fe81fd714a8814cb70dc15321bb789"
+  "gitHead": "824feba96b004dbb17845857d00c5d8d415e897d"
 }
